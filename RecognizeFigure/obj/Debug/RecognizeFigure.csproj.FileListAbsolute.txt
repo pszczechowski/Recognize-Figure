@@ -1,0 +1,5 @@
+C:\Users\piotr\RiderProjects\RecognizeFigure\RecognizeFigure\bin\Debug\RecognizeFigure.exe
+C:\Users\piotr\RiderProjects\RecognizeFigure\RecognizeFigure\bin\Debug\RecognizeFigure.pdb
+C:\Users\piotr\RiderProjects\RecognizeFigure\RecognizeFigure\obj\Debug\RecognizeFigure.csprojAssemblyReference.cache
+C:\Users\piotr\RiderProjects\RecognizeFigure\RecognizeFigure\obj\Debug\RecognizeFigure.exe
+C:\Users\piotr\RiderProjects\RecognizeFigure\RecognizeFigure\obj\Debug\RecognizeFigure.pdb
